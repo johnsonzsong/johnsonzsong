@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @johnsonzsong
 - 👀 I’m interested in building awesome experiences
-- 🌱 I’m currently learning product design for AI
 - 📫 How to reach me: johnsonsong@stanford.edu
 
 <!---
